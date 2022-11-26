@@ -1,0 +1,1 @@
+/Users/shungo/Programming/Rust/the-rust-lang-book/1/hello_world/hello_wrold_cargo/target/debug/hello_wrold_cargo: /Users/shungo/Programming/Rust/the-rust-lang-book/1/hello_world/hello_wrold_cargo/src/main.rs
